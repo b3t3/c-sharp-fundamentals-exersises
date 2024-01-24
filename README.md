@@ -7,4 +7,4 @@ A method that gives the sum of inputed integers in an array,➕
 A simple log in method with fixed variables,🔐
 A method to output the age group the given age is in,👩‍👩‍👧‍👦
 A method that gets the sum of even numbers in a given scope,=
-A method that generates a number that you have to guess with hints,❓🤔
+A method that generates a number that you have to guess with hints to whether the number is higher or lower,❓🤔
